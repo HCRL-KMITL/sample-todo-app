@@ -1,0 +1,13 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    directives_ordering: true
+
+    avoid_print: true
+
+    prefer_relative_imports: true
+    require_trailing_commas: true
+
+    prefer_const_constructors: true
+    prefer_const_declarations: true
