@@ -1,7 +1,6 @@
 {
   "files.exclude": {
     ".dart_tool": true,
-    "build": true,
     ".flutter-plugins-dependencies": true,
     "pubspec.lock": true,
     "LICENSE": true

@@ -11,14 +11,14 @@ dependencies:
   flutter:
     sdk: flutter
 
+  # Date format
+  intl: ^0.20.2
+
   # Env
   flutter_dotenv: ^6.0.0
 
   # BaaS
   supabase_flutter: ^2.10.3
-
-  # Date format
-  intl: ^0.20.2
 
 dev_dependencies:
   flutter_test:
