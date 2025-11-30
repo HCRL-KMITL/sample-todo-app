@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
 
-import 'screens/home_page.dart';
+import 'screens/home_screen.dart';
 
 /// คลาสหลักจะทำหน้าที่เป็น Settings ภายในแอพ เช่น Theme, Route, ภาษา
-/// โดยจะ Return เป็น Widget ชื่อว่า [MaterialApp] และ หน้าแรก [HomePage]
+///
+/// โดยจะ Return เป็น Widget ชื่อว่า [MaterialApp] และ หน้าแรก [HomeScreen]
 class ToDoApp extends StatelessWidget {
   const ToDoApp({super.key});
 
@@ -24,7 +25,7 @@ class ToDoApp extends StatelessWidget {
           ),
         ),
       ),
-      home: const HomePage(),
+      home: const HomeScreen(),
     );
   }
 }
