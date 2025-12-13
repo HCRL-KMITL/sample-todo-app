@@ -17,6 +17,10 @@ https://www.figma.com/community/file/1056617538023886207
 
 ## 🔧 Setup
 
+#### Create account & table
+Create the required account and database table by following the example in the link below:
+https://www.canva.com/design/DAG6t8R8Pmk/GHcUOmW7uyYmHgrTeVvuDg/edit?ui=eyJEIjp7IlQiOnsiQSI6IlBCWUI2RnlmQ1Juc3A1eXQifX19
+
 #### Copy example env file
 
 ```sh
